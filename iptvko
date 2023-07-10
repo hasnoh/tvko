@@ -514,7 +514,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/hasnoh/tvko/blob/main/channel_12.png",Galaxy Premium 
+#EXTINF:-1 tvg-logo="https://raw.githubuserconteny.com/hasnoh/tvko/main/channel_12.png",Galaxy Premium 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj 
 http://tvgo.my.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
