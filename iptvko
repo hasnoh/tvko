@@ -6,11 +6,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" 
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml" 
+#EXTM3U url-tvg="https://epg.kampung.xyz/IPTV.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
 
-https://iptv-org.github.io/epg/guides/jp.xml
-https://i.mjh.nz/PlutoTV/all.xml.gz
-https://techzyon.com/epg/plutotv_guide.xml
-https://macan.tv/xmltv.php?username=epg&password=epg
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U url-tvg="https://techzyon.com/epg/plutotv_guide.xml"
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
