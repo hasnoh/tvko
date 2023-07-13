@@ -1,5 +1,4 @@
-https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/India/tatasky.com.channels.xml
-#EXTM3U
+#EXTM3U url-tvg="https://raw.https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/India/tatasky.com.channels.xml"
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
