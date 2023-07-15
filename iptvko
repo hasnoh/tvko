@@ -19,15 +19,14 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml" 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml" 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
-
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTM3U url-tvg="https://techzyon.com/epg/plutotv_guide.xml"
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
-################################################################ MY FREEVIEW ##################################################################################
+############################# MY FREEVIEW ############################################
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -167,14 +166,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
-########################################################## MEDIACORP ##########################################################################################
+########################### MEDIACORP #####################################################
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-########################################################### RTB GO ############################################################################################
+########################### RTB GO ########################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB Sukmaindera HD
 #EXTVLCOPT:network-caching=1000
@@ -188,7 +187,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-########################################################## CHINESE ############################################################################################
+############################ CHINESE ###########################################
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -211,7 +210,7 @@ https://web.hypp.tv/PLTV/88888888/224/3221227826/3221227826.mpd?rrsip=web.hypp.t
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 
-###################################################################### KOREAN #################################################################################
+########################### KOREAN #########################################
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_83/830a24e3e253625edff8233b668520ae.jpeg", KBSW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -285,7 +284,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#################### DISCOVERY ###############
+############################ DISCOVERY #############################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
@@ -336,7 +335,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD 
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#################################################################### MOVIES ##################################################################################
+################################# MOVIES ############################################
 
 EXTINF:-1 tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275762486%27&EntityType=%27Item%27&EntityId=%27227348%27&Width=1494&Height=800", Rock Entertainment HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -591,7 +590,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
-#################################################################### NEWS ####################################################################################
+############################ NEWS ##############################################
 
 #EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -605,7 +604,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 EXTINF:-1 tvg-logo="https://bernama.com/bm/img/bernama.png", BERNAMA FHD
 https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
 
-################################################################## SPORTS ####################################################################################
+################################## SPORTS ###########################################
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
