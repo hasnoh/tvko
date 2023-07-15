@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/fd0838dcd27f2537e4ca96805c7719030aeef859/sites/mncvision.id/mncvision.id_id.channels.xml"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
