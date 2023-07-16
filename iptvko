@@ -26,6 +26,15 @@
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
+##############################  ADD ON  ########################################
+
+#EXTINF:-1, Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="Movie", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+
 ############################# MY FREEVIEW ############################################
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
