@@ -59,129 +59,186 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c87704
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/10/pluto-tv-logo-vector.png"  group-title="PLUTO TV",96 Pluto The Asylum
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=a4ee8f13-03fd-4912-830f-316e6adc5b7d&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:-1 group-title="Bili²",Sky Store 4
+###### BACKUP ASTRO #####
+
+
+#EXTINF:-1 group-title="Ria 1",HUB SPORTS 4
+http://line.premiumpowers.net:80/Manuel/1234567/941571
+
+#EXTINF:-1 group-title="Ria 2",HUB SPORTS 2
+http://line.premiumpowers.net:80/Manuel/1234567/941572
+
+#EXTINF:-1 group-title="Ria 3",HUB SPORTS 1
+http://line.premiumpowers.net:80/Manuel/1234567/941573
+
+#EXTINF:-1 group-title="Ria 4",STARHUB
+http://line.premiumpowers.net:80/Manuel/1234567/941565
+
+#EXTINF:-1 group-title="Ria 5",STARHUB2
+http://line.premiumpowers.net:80/Manuel/1234567/941566
+
+#EXTINF:-1 group-title="Ria 6",HUB都会
+http://line.premiumpowers.net:80/Manuel/1234567/941633
+
+#EXTINF:-1 group-title="Ria 7",HUB娱家
+http://line.premiumpowers.net:80/Manuel/1234567/941634
+
+#EXTINF:-1 group-title="Ria 8",HUB SPORTS 5
+http://line.premiumpowers.net:80/Manuel/1234567/941582
+
+
+#EXTINF:-1 group-title="Backup",Movie 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 group-title="Backup",Movie 2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 group-title="Backup",Movie 3
+http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216226
+
+#EXTINF:-1 group-title="Backup",Movie 4
+http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216227
+
+#EXTINF:-1 group-title="Backup",VINMEEN
+http://line.premiumpowers.net:80/Manuel/1234567/571232
+
+#EXTINF:-1 group-title="Backup",AURA
+AURA,http://line.premiumpowers.net:80/Manuel/1234567/571257
+
+#EXTINF:-1 group-title="Backup",RANIA
+http://line.premiumpowers.net:80/Manuel/1234567/571256
+
+#EXTINF:-1 group-title="Backup",SALAAM
+http://line.premiumpowers.net:80/Manuel/1234567/571276
+
+#EXTINF:-1 group-title="Backup",WARNA
+http://line.premiumpowers.net:80/Manuel/1234567/571231
+
+#EXTINF:-1 group-title="Backup",Blue Ant Extreme
+http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115630
+
+#EXTINF:-1 group-title="Backup",Blue Anttertainment
+http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/115628
+
+#EXTINF:-1 group-title="Backup",Astro Super Sports 5
+http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/485569
+
+#EXTINF:-1 group-title="Backup",Sky Store 1
+http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428192
+
+#EXTINF:-1 group-title="Backup",Sky Store 2
+http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428193
+
+#EXTINF:-1 group-title="Backup",Sky Store 3
+http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428194
+
+#EXTINF:-1 group-title="Backup",Sky Store 4
 http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/428195
 
-BILI²
+##########   BILI²  ##########
 
-#EXTINF:-1 group-title="Bili²",bili² 1
+#EXTINF:-1 group-title="BILI²",bili² 1
 http://zzy789.xyz/bili.php?id=482946#
-
-#EXTINF:-1 group-title="Bili²",bili² 2
+#EXTINF:-1 group-title="BILI²",bili² 2
 http://zzy789.xyz/bili.php?id=346400#
-
-#EXTINF:-1 group-title="Bili²",bili² 3
+#EXTINF:-1 group-title="BILI²",bili² 3
 http://zzy789.xyz/bili.php?id=279430#
 
-#EXTINF:-1 group-title="Bili²",bili² 4
+#EXTINF:-1 group-title="BILI²",bili² 4
 http://zzy789.xyz/bili.php?id=11765640#
 
-#EXTINF:-1 group-title="Bili²",bili² 5
+#EXTINF:-1 group-title="BILI²",bili² 5
 http://zzy789.xyz/bili.php?id=21614203#
 
-#EXTINF:-1 group-title="Bili²",bili² 6
+#EXTINF:-1 group-title="BILI²",bili² 6
 http://zzy789.xyz/bili.php?id=23242774#
 
-#EXTINF:-1 group-title="Bili²",bili² 7
+#EXTINF:-1 group-title="BILI²",bili² 7
 http://zzy789.xyz/bili.php?id=61834#
 
-#EXTINF:-1 group-title="Bili²",bili² 8
+#EXTINF:-1 group-title="BILI²",bili² 8
 http://zzy789.xyz/bili.php?id=14495324#
 
-#EXTINF:-1 group-title="Bili²",bili² 9
+#EXTINF:-1 group-title="BILI²",bili² 9
 http://zzy789.xyz/bili.php?id=4355330#
 
-#EXTINF:-1 group-title="Bili²",bili² 10
+#EXTINF:-1 group-title="BILI²",bili² 10
 http://zzy789.xyz/bili.php?id=10375360#
 
-#EXTINF:-1 group-title="Bili²",bili² 11
+#EXTINF:-1 group-title="BILI²",bili² 11
 http://zzy789.xyz/bili.php?id=21570935#
 
-#EXTINF:-1 group-title="Bili²",bili² 12
+#EXTINF:-1 group-title="BILI²",bili² 12
 http://zzy789.xyz/bili.php?id=11579951#
 
-#EXTINF:-1 group-title="Bili²",bili² 13
+#EXTINF:-1 group-title="BILI²",bili² 13
 http://zzy789.xyz/bili.php?id=22804740#
 
-#EXTINF:-1 group-title="Bili²",bili² 14
+#EXTINF:-1 group-title="BILI²",bili² 14
 http://zzy789.xyz/bili.php?id=1895574#
 
-#EXTINF:-1 group-title="Bili²",bili² 15
+#EXTINF:-1 group-title="BILI²",bili² 15
 http://zzy789.xyz/bili.php?id=21333965#
 
-#EXTINF:-1 group-title="Bili²",bili² 16
+#EXTINF:-1 group-title="BILI²",bili² 16
 http://zzy789.xyz/bili.php?id=49132#
 
-#EXTINF:-1 group-title="Bili²",bili² 17
+#EXTINF:-1 group-title="BILI²",bili² 17
 http://zzy789.xyz/bili.php?id=22356720#
 
-#EXTINF:-1 group-title="Bili²",bili² 18
+#EXTINF:-1 group-title="BILI²",bili² 18
 http://zzy789.xyz/bili.php?id=22765729#
 
-#EXTINF:-1 group-title="Bili²",bili² 19
+#EXTINF:-1 group-title="BILI²",bili² 19
 http://zzy789.xyz/bili.php?id=24609114#
 
-#EXTINF:-1 group-title="Bili²",bili² 20
+#EXTINF:-1 group-title="BILI²",bili² 20
 http://zzy789.xyz/bili.php?id=23190944#
 
-#EXTINF:-1 group-title="Bili²",bili² 21
+#EXTINF:-1 group-title="BILI²",bili² 21
 http://zzy789.xyz/bili.php?id=23000636#
 
-#EXTINF:-1 group-title="Bili²",bili² 22
+#EXTINF:-1 group-title="BILI²",bili² 22
 http://zzy789.xyz/bili.php?id=24882087#
 
-#EXTINF:-1 group-title="Bili²",bili² 23
+#EXTINF:-1 group-title="BILI²",bili² 23
 http://zzy789.xyz/bili.php?id=181453#
 
-#EXTINF:-1 group-title="Bili²",bili² 24
+#EXTINF:-1 group-title="BILI²",bili² 24
 http://zzy789.xyz/bili.php?id=11224983#
 
-#EXTINF:-1 group-title="Bili²",bili² 25
+#EXTINF:-1 group-title="BILI²",bili² 25
 http://zzy789.xyz/bili.php?id=655291#
 
-#EXTINF:-1 group-title="Bili²",bili² 26
+#EXTINF:-1 group-title="BILI²",bili² 26
 http://zzy789.xyz/bili.php?id=10544270#
-
-#EXTINF:-1 group-title="Bili²",bili² 27
+#EXTINF:-1 group-title="BILI²",bili² 27
 http://zzy789.xyz/bili.php?id=5759023#
-
-#EXTINF:-1 group-title="Bili²",bili² 28
+#EXTINF:-1 group-title="BILI²",bili² 28
 http://zzy789.xyz/bili.php?id=1954990#
-
-#EXTINF:-1 group-title="Bili²",bili² 29
+#EXTINF:-1 group-title="BILI²",bili² 29
 http://zzy789.xyz/bili.php?id=14434#
-
-#EXTINF:-1 group-title="Bili²",bili² 30
+#EXTINF:-1 group-title="BILI²",bili² 30
 http://zzy789.xyz/bili.php?id=2308015#
-
-#EXTINF:-1 group-title="Bili²",bili² 31
+#EXTINF:-1 group-title="BILI²",bili² 31
 http://zzy789.xyz/bili.php?id=21751462#
-
-#EXTINF:-1 group-title="Bili²",bili² 32
+#EXTINF:-1 group-title="BILI²",bili² 32
 http://zzy789.xyz/bili.php?id=11606075#
-
-#EXTINF:-1 group-title="Bili²",bili² 33
+#EXTINF:-1 group-title="BILI²",bili² 33
 http://zzy789.xyz/bili.php?id=34340#
-
-#EXTINF:-1 group-title="Bili²",bili² 34
+#EXTINF:-1 group-title="BILI²",bili² 34
 http://zzy789.xyz/bili.php?id=22194340#
-
-#EXTINF:-1 group-title="Bili²",bili² 35
+#EXTINF:-1 group-title="BILI²",bili² 35
 http://zzy789.xyz/bili.php?id=4089143#
-
-#EXTINF:-1 group-title="Bili²",bili² 36
+#EXTINF:-1 group-title="BILI²",bili² 36
 http://zzy789.xyz/bili.php?id=11168667#
-
-#EXTINF:-1 group-title="Bili²",bili² 37
+#EXTINF:-1 group-title="BILI²",bili² 37
 http://zzy789.xyz/bili.php?id=24781991#
-
-#EXTINF:-1 group-title="Bili²",bili² 38
+#EXTINF:-1 group-title="BILI²",bili² 38
 http://zzy789.xyz/bili.php?id=24511160#
-
-#EXTINF:-1 group-title="Bili²",bili² 39
+#EXTINF:-1 group-title="BILI²",bili² 39
 http://zzy789.xyz/bili.php?id=23891000#
-
-#EXTINF:-1 group-title="Bili²",bili² 40
+#EXTINF:-1 group-title="BILI²",bili² 40
 http://zzy789.xyz/bili.php?id=11365#
 
 
