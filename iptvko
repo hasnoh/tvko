@@ -861,7 +861,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 https://astro1.rastream.com/myfm
 #EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="18" tvg-name="My Sarawak FM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MY SARAWAK FM
 http://astro1.rastream.com/amp-myfm-kch
-#EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="104" tvg-name="" radio="false" catchup="default" tvg-logo="https://en.wikipedia.org/wiki/File:Asyik_FM_Logo.PNG",ASYIK FM
+#EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="104" tvg-name="" radio="false" catchup="default" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Asyik_FM_Logo.PNG",ASYIK FM
 https://23693.live.streamtheworld.com/ASYIK_FMAAC
 
 ####### VOD KIDS886 ########
