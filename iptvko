@@ -818,7 +818,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 group-title="RADIO",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", HOT FM 
+#EXTINF:-1 group-title="RADIO",tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Logo_of_Hot_FM_%28Malaysia%29.svg", HOT FM 
 https://mediaprima.rastream.com/mediaprima-hotfm
 
 #EXTINF:-1 group-title="RADIO", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",  ERA
@@ -845,7 +845,7 @@ https://astro1.rastream.com/hitz
 #EXTINF:-1 group-title="RADIO",tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png", SURIA
 https://23733.live.streamtheworld.com/SURIA_FMAAC.aac?key=value&key2=value2&dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=033a61ae-7089-4dfd-910c-6bda1661a583
 
-#EXTINF:-1 group-title="RADIO",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png", Radio IKIM
+#EXTINF:-1 group-title="RADIO",tvg-logo="https://radio.ikim.my/wp-content/uploads/2019/03/logo-2.png", Radio IKIM
 https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=63f3904af48d023a_4999034_qj1Gix3R_MTAzLjIxLjgxLjM6ODA!_0000008ouxn&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2ODE5MDU0NzgsImV4cCI6MTY4MTk5MTg3OH0.9ObbwEt1E0lC8jADaaKlwWqJn8hKBNgAOCD8AdTeFf8&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=dd330dca4396b75bd95482efe7877006
 
 #EXTINF:-1 group-title="RADIO",tvg-logo="https://cdn-radiotime-logos.tunein.com/s221306g.png",  BEST FM
@@ -857,9 +857,9 @@ https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqf
 #EXTINF:-1 group-title="RADIO",tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png",  MAKMUR FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
-#EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="17" tvg-name="My FM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MY FM
+#EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="17" tvg-name="My FM" tvg-logo="https://radiomalaysia.net/radio/thumbs/myfm.gif",MY FM
 https://astro1.rastream.com/myfm
-#EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="18" tvg-name="My Sarawak FM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MY SARAWAK FM
+#EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="18" tvg-name="My Sarawak FM" tvg-logo="https://media2.fishtank.my/stations/my-sarawak/square_md.jpg",MY SARAWAK FM
 http://astro1.rastream.com/amp-myfm-kch
 #EXTINF:-1 group-title="RADIO" tvg-id="" tvg-chno="104" tvg-name="" radio="false" catchup="default" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Asyik_FM_Logo.PNG",ASYIK FM
 https://23693.live.streamtheworld.com/ASYIK_FMAAC
