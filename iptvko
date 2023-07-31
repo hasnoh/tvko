@@ -17,9 +17,22 @@
 
 ##############################  ADD ON  ########################################
 
+#EXTINF:-1 tvg-logo="TEST" group-title="TEST",SIGNATURE
+http://alwa.lk21tvonlineid.com/signature.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="TEST",HBO Signature (Resolusi)
+http://me.zichannels.my.id/ch/sighd.m3u8 
+
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="TEST",HBO Signature
+http://listaiptv.brcs.ml:8080/SD_HBO/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1 group-title="TEST",HBO Signature HD
+http://maxptv.net:8080/sergio/sergio/531
+#EXTINF:-1 group-title="TEST",HBO Signature SD
+http://maxptv.net:8080/sergio/sergio/124
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
 https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 
