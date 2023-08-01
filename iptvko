@@ -19,7 +19,8 @@
 
 #EXTINF:-1 tvg-logo="TEST" group-title="TEST",SIGNATURE
 http://alwa.lk21tvonlineid.com/signature.m3u8
-
+#EXTINF:-1 tvg-logo="TEST" group-title="TEST",SIGNATURE
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="TEST",HBO Signature (Resolusi)
 http://me.zichannels.my.id/ch/sighd.m3u8 
 
