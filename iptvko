@@ -21,7 +21,8 @@
 http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/30946
 #EXTINF:-1 tvg-id="Syfy.uk" tvg-name="|.UK.| SYFY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnQFQgKQYR5OowWxgTthGtfafZjnkdhaHx6yKrZaSeQkMu0T1tQ_jairI" group-title="test",|.UK.| SYFY FHD
 http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/31092
-
+#EXTINF:-1 group-title="test", SyFy1
+https://16live00.akamaized.net/SYFY/index.m3u8
 #EXTINF:-1 group-title="test", SyFy
 https://github.com/kusnadipepenk/ntn/blob/master/emtv.m3u8
 
