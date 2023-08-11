@@ -17,7 +17,7 @@
 
 ##############################  ADD ON  ########################################
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png/revision/latest?cb=20150528023705" group-title="test", SYFY00
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png/revision/latest?cb=20150528023705" group-title="test", SyFy00
 http://165.227.100.253/syfy/tracks-v1a1/index.m3u8?pxAuth=gbf4toGuGtUde5Jv87YnTJhpEFCQZrTp
 
 #EXTINF:-1 tvg-id="Syfy.uk" tvg-name="|.UK.| SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL8bxh7ZonJc_sNr-U5IP4kGi7BPQyK_T7kWChUWV4YYjsOeZq3hV8v8z" group-title="test",|.UK.| SYFY
