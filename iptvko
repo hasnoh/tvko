@@ -102,6 +102,56 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://cdn.ksa.my.id/cinemaworld.png" group-title="tVi",Cinema World
 https://newanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+###################################### Kidz ##################
+
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="Cartoon",Ongis TV
+https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Cartoon",MY KIDZ
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Cartoon",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="Cartoon",Boomerang
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165109
+#EXTINF:-1 group-title="Cartoon",Boomerang EN
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298507
+#EXTINF:-1 tvg-name="us: boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" group-title="Cartoon",BOOMERANG
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32158
+#EXTINF:-1 group-title="Cartoon",Cartoon Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157593
+#EXTINF:-1 group-title="Cartoon",Disney Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165075
+#EXTINF:-1 group-title="Cartoon",Disney Junior
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162511
+#EXTINF:-1 group-title="Cartoon",Disney XD
+http://ae2.aatvbox.club:8880/12mk160078/31623992/60448
+#EXTINF:-1 tvg-name="usa| disney jr hd" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title="Cartoon",DISNEY JR HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/625
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="Cartoon",SPACETOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbv6m9I10UL7eavDHFPUHjgzSa-_FK8JG3g&usqp=CAU" group-title="Cartoon",TOON MAX
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoon",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon",Dunia Anak
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264753
+
+#EXTINF:-1 group-title="Cartoon",Horee!
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264750
+#EXTINF:-1 group-title="Cartoon",Hip Hip Horee!
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298536
+#EXTINF:-1 group-title="Cartoon",Kids TV
+http://ae2.aatvbox.club:8880/12mk160078/31623992/60454
+#EXTINF:-1 group-title="Cartoon",ZooMoo
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264751
+#EXTINF:-1 group-title="Cartoon",BabyBus Indonesia
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298494
+#EXTINF:-1 group-title="Cartoon",Doraemon 
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298496
+#EXTINF:-1 group-title="Cartoon",Upin Ipin 
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298501
+
+
 
 #############   VOD   ##############################
 
