@@ -17,30 +17,9 @@
 
 ##############################  ADD ON  ########################################
 
-#EXTINF:-1,group-title="test",Syfy
-http://cdn.miptv.ws:25463/live/wzgqr/wzgrj/742.ts
-#EXTINF:-1,group-title="test",Syfy HD
-http://cdn.miptv.ws:25463/live/wzgqr/wzgrj/1483.ts
-#EXTINF:-1,group-title="test",SyFy HD [PLUS]
-http://cdn.miptv.ws:25463/live/wzgqr/wzgrj/4111.ts
+#EXTINF:-1 ,爱电竞
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-#EXTINF:-1,SyFy HD
-http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:-1,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png/revision/latest?cb=20150528023705" group-title="test", SyFy00
-http://165.227.100.253/syfy/tracks-v1a1/index.m3u8?pxAuth=gbf4toGuGtUde5Jv87YnTJhpEFCQZrTp
-
-#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="|.UK.| SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL8bxh7ZonJc_sNr-U5IP4kGi7BPQyK_T7kWChUWV4YYjsOeZq3hV8v8z" group-title="test",|.UK.| SYFY
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/30946
-#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="|.UK.| SYFY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnQFQgKQYR5OowWxgTthGtfafZjnkdhaHx6yKrZaSeQkMu0T1tQ_jairI" group-title="test",|.UK.| SYFY FHD
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/31092
-#EXTINF:-1 group-title="test", SyFy1
-https://16live00.akamaized.net/SYFY/index.m3u8
-#EXTINF:-1 group-title="test", SyFy
-https://github.com/kusnadipepenk/ntn/blob/master/emtv.m3u8
 
 #EXTINF:-1 group-title="tVi" tvg-id="hbosignatureasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
