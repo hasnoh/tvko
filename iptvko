@@ -99,6 +99,32 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 https://newanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
+#############   VOD   ##############################
+
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="VOD",Ongis TV
+https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Avatar 2
+https://github.com/OngisMbois/VOD/raw/main/avatar.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Antman Quantumania
+https://github.com/OngisMbois/VOD/raw/main/AntmanQuantumania.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Fast-X
+##https://github.com/Iqbalbala/VOD/blob/main/FastX.m3u8
+https://github.com/OngisMbois/VOD/raw/main/FastX.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Sonic 2
+https://github.com/OngisMbois/VOD/raw/main/Sonic2.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Black Adam
+https://github.com/OngisMbois/VOD/raw/main/Blackadam.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Transformer Beats
+https://github.com/OngisMbois/VOD/raw/main/Transformerbeats.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shangchi
+https://github.com/OngisMbois/VOD/raw/main/Shangchi.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Wakanda Forever
+https://github.com/OngisMbois/VOD/raw/main/Wakandaforever.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shazam 2
+https://github.com/OngisMbois/VOD/raw/main/Zhazam2.m3u8
+###EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD
+
+
 ############################# MY FREEVIEW ############################################
 
 #EXTINF:-1 group-title="tVi", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
