@@ -24,9 +24,9 @@ http://cdn.miptv.ws:25463/live/wzgqr/wzgrj/1483.ts
 #EXTINF:-1,group-title="test",SyFy HD [PLUS]
 http://cdn.miptv.ws:25463/live/wzgqr/wzgrj/4111.ts
 
-#EXTINF:0,SyFy HD
+#EXTINF:-1,SyFy HD
 http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,SyFy SD
+#EXTINF:-1,SyFy SD
 http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
 
 
