@@ -18,7 +18,7 @@
 ##############################  ADD ON  ########################################
 
 
-#EXTINF:-1 tvg-logo="" group-title="test",pltv-subgroup="testsub" Guardian of Galaxy Vol 2
+#EXTINF:-1 tvg-logo="" group-title="test",pltv-subgroup="testsub", Guardian of Galaxy Vol 2
 https://www.googleapis.com/drive/v3/files/1DS2sAUS8bAwi-0NIhxW3UZ81gexMb0V5?
 alt=media&key=AIzaSyCxglrTVB-QvFSx3U_jxirRFV1fVL165Yk
 
