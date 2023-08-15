@@ -17,7 +17,7 @@
 
 ##############################  ADD ON  ########################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test1;test2;test3", TestGroup
+#EXTINF:-1 tvg-logo="" group-title="test1;test2;test3", TestGroup
 http://example.com/ch4.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="test", Guardian of Galaxy Vol 2
