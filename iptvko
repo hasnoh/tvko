@@ -17,6 +17,10 @@
 
 ##############################  ADD ON  ########################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/WSFL_2017_Logo.png" group-title="test",CW South Florida
+http://190.80.3.28/CW/CW.isml/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="test", Guardian of Galaxy Vol 2
 https://www.googleapis.com/drive/v3/files/1DS2sAUS8bAwi-0NIhxW3UZ81gexMb0V5?
