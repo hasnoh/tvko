@@ -22,9 +22,9 @@ http://190.80.3.28/CW/CW.isml/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="test", Guardian of Galaxy Vol 2
-https://www.googleapis.com/drive/v3/files/1DS2sAUS8bAwi-0NIhxW3UZ81gexMb0V5?
-alt=media&key=AIzaSyCxglrTVB-QvFSx3U_jxirRFV1fVL165Yk
+#EXTINF:-1 tvg-logo="" group-title="test", Test
+https://streamable.com/35juo5
+
 
 
 #EXTINF:-1 group-title="test" tvg-id="" tvg-logo="",Test Link
