@@ -17,6 +17,22 @@
 
 ##############################  ADD ON  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg" group-title="Movies",Citra Bioskop
+http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="dunia sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="Movies",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 group-title="Movies",Bioskop Indonesia
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264801
+#EXTINF:-1 group-title="Movies",Galaxy
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264773
+##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264773
+#EXTINF:-1 group-title="Movies",Galaxy Premium
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264774
+#EXTINF:-1 group-title="Movies",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165079
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy 
