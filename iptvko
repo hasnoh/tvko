@@ -17,6 +17,24 @@
 
 ##############################  ADD ON  ########################################
 
+#EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="tVi",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="tVi",PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://aqfadtv.xyz/live/ria/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg" group-title="Movies",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="dunia sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="Movies",Dunia Sinema
